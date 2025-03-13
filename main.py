@@ -2,6 +2,7 @@ from openai import OpenAI
 
 import os
 from dotenv import load_dotenv
+from rich import print
 
 # Load environment variables from .env file
 load_dotenv()
