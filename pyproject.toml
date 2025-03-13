@@ -8,4 +8,5 @@ dependencies = [
     "openai>=1.66.3",
     "python-dotenv>=1.0.1",
     "rich>=13.9.4",
+    "streamlit>=1.43.2",
 ]

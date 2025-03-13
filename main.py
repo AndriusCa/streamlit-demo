@@ -3,6 +3,8 @@ from openai import OpenAI
 import os
 from dotenv import load_dotenv
 from rich import print
+import streamlit as st
+
 
 # Load environment variables from .env file
 load_dotenv()
